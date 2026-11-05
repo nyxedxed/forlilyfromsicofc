@@ -38,25 +38,25 @@ const CONFIG = {
       "We've been in contact for a while now and you must've notice me pushing my way closer to you. I thought a lot about whether I should tell you this or not but it's now or never I assume.(Maybe not never, I'm just exaggerating)",
       "I like you. Well, it's a lot more than that and it's more like I admire you. As I've said, I love the way you are naturally - quirky, silly, cute and a lot more. You just make me feel really happy whenver we're talking and that has been giving me the energy to deal with people at school. ",
       "You're all I need to be very honest and I'd feel complete with you. However, I'm not willing to push you to make a decision on whether you wanna be with me or not so, the choice is all yours to make. Take your time.",
-      "You're the first I've said it to soooo I love you :P",
+      "You're the first I've said it to soooo I love you :P. Oh and hover over the No button hehe",
     ],
     signature: "Sic"
   },
 
   // The question at the end. noMessages: one line is shown each time she presses No.
   question: {
-    title: "Will you go out with me?",
+    title: "Can I Be Your Boyfriend",
     yes: "Yes",
     no: "No",
     noMessages: [
       "Are you sure?",
       "Think about it once more...",
-      "I made this whole website for you.",
+      "Please??",
       "Look how big Yes is getting.",
       "Okay, there's only one answer left."
     ],
-    yesTitle: "You just made me the happiest person alive",
-    yesText: "Write what happens next here. Dinner on Friday?"
+    yesTitle: "YAYAYYAYY",
+    yesText: "I'll call you;)"
   }
 };
 
